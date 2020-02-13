@@ -1,0 +1,38 @@
+.banner {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(50, 50, 50);
+    display: flex;
+    align-items: center;
+   float: left;
+  }
+  
+  .banner-me {
+    width: 100vw;
+    margin: 10vh auto;
+  }
+  
+  .banner-photo {
+    text-align: center;
+  }
+  .banner-photo img {
+    margin-top:3vh;
+    width: 14vw;
+    border-radius: 50%;
+    margin-bottom: 3vh;
+  }
+  
+  .banner-desc {
+    text-align:center;
+    color: rgb(255, 255, 255);
+  }
+  
+  .banner-desc h1 {
+    font-size: 2vw;
+    color: rgb(255, 255, 255);
+  }
+  
+  .banner-desc p {
+    font-size: 1.3vw;
+  }
+  

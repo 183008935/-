@@ -1,0 +1,27 @@
+.about-container {
+    flex-direction:column;
+    padding: 12vh 19vw;
+    background-color: rgb(255, 255, 255);
+  }
+  .about-detial {
+    font-size: 1vw;
+    height: 40%;
+    text-align: center;
+    min-height: 20vh;
+    
+  }
+  
+  .about-detial ul {
+    list-style: none;
+    margin-top: 2vh;
+  }
+  
+  .about-detial li {
+    line-height: 3vh;
+  }
+  
+  .about-detial a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+  
